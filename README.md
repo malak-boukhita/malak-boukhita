@@ -29,6 +29,6 @@ I'm a Computer Science Engineering student. Focused on AI, data analysis, and so
 ## Projects
 
 [urika-chatbot](https://github.com/malak-boukhita/urika-chatbot.git) : AI-powered chatbot for URIKA CLOUD that helps visitors discover the company’s services and get clear, relevant answers.
-## How to reach me:
+## How to reach me
 * [**LinkedIn**](https://www.linkedin.com/in/malak-boukhita-605498379/)
 * [**Email**](mailto:malakboukhita1@gmail.com)
