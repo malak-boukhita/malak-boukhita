@@ -1,5 +1,5 @@
 ## Hi, I'm Malak 
-I'am a Computer Science Engineering student. Focused on AI, data analysis, and software development. I enjoy building smart, scalable tech solutions and solving complex challenges.
+I'm a Computer Science Engineering student. Focused on AI, data analysis, and software development. I enjoy building smart, scalable tech solutions and solving complex challenges.
 
 ## Technical Skillset
 
@@ -26,6 +26,9 @@ I'am a Computer Science Engineering student. Focused on AI, data analysis, and s
 
 </div>
 
+## Projects
+
+[urika-chatbot](https://github.com/malak-boukhita/urika-chatbot.git) : AI-powered chatbot for URIKA CLOUD that helps visitors discover the company’s services and get clear, relevant answers.
 ## How to reach me:
 * [**LinkedIn**](https://www.linkedin.com/in/malak-boukhita-605498379/)
 * [**Email**](mailto:malakboukhita1@gmail.com)
