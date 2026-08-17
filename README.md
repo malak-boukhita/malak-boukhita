@@ -26,6 +26,9 @@ I'm a Computer Science Engineering student. Focused on AI, data analysis, and so
 
 </div>
 
+## Certifications
+* ![Simplilearn](https://img.shields.io/badge/simpli-learn-00a8e8?style=flat-square&labelColor=f5a623) [Introduction to Artificial Intelligence - Simplilearn](https://simpli-web.app.link/e/43QhyRaVF5b)
+
 ## Projects
 
 [urika-chatbot](https://github.com/malak-boukhita/urika-chatbot.git) : AI-powered chatbot for URIKA CLOUD that helps visitors discover the company’s services and get clear, relevant answers.
