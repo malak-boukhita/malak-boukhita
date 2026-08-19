@@ -27,7 +27,9 @@ I'm a Computer Science Engineering student. Focused on AI, data analysis, and so
 </div>
 
 ## Certifications
+* ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Introduction%20to%20Generative%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/453e1061-ce76-461a-804f-f58239889219/badges/26966400)
 * ![Simplilearn](https://img.shields.io/badge/simpli-learn-00a8e8?style=flat-square&labelColor=f5a623) [Introduction to Artificial Intelligence - Simplilearn](https://simpli-web.app.link/e/43QhyRaVF5b)
+* ![Simplilearn](https://img.shields.io/badge/simpli-learn-00a8e8?style=flat-square&labelColor=f5a623) [Agile Scrum Foundation - Simplilearn]()
 
 ## Projects
 
